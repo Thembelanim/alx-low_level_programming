@@ -1,5 +1,3 @@
-nes (21 sloc)  374 Bytes
-
 #include "main.h"
 /**
  * print_square - Prints a with the character #.
