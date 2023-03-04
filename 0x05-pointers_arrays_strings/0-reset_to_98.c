@@ -1,7 +1,8 @@
 #include "main.h"
 
 /**
- * reset_to_98 - writes a function that points to an int and updates the value of the address to 98.
+ * reset_to_98 - Takes points to an int and updates
+ * the value of the address to 98.
  * @n: The int declared varialble name
  */
 
